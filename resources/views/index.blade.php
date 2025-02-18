@@ -23,13 +23,15 @@
                 Bij Scalda werkte ik vooral met hardware en had ik weinig ervaring met programmeren.
                 Tot nu toe bevalt de opleiding me enorm.</p>
 
-            <img src="https://www.pcworld.com/wp-content/uploads/2023/04/old_computer_systems_outdated_obsolete_retro_vintage_in_need_of_an_update_by_maxiphoto_gettyimages-520510019_2400x1600-100858541-orig.jpg?resize=1240%2C826&quality=50&strip=all" width="400">
+            <img src="https://www.pcworld.com/wp-content/uploads/2023/04/old_computer_systems_outdated_obsolete_retro_vintage_in_need_of_an_update_by_maxiphoto_gettyimages-520510019_2400x1600-100858541-orig.jpg?resize=1240%2C826&quality=50&strip=all"
+                 alt="old computer" width="400">
 
             <h2>Wat Wil Ik Leren?</h2>
             <p>Ik wil graag beter worden in <b>coderen</b> en <b>websites maken</b>. Ik gebruik <a target="_blank" href="https://freecodecamp.nl">FreeCodeCamp</a>
                 om te leren, omdat het flexibel en toegankelijk is.</p>
 
-            <img src="https://c4.wallpaperflare.com/wallpaper/642/550/375/fantasy-art-colorful-chinese-dragon-digital-art-wallpaper-preview.jpg" width="400">
+            <img src="https://c4.wallpaperflare.com/wallpaper/642/550/375/fantasy-art-colorful-chinese-dragon-digital-art-wallpaper-preview.jpg"
+                 alt="fantasy computing" width="400">
         </div>
 
         <div class="columnimage">

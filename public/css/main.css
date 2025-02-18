@@ -37,7 +37,7 @@ h1 {
 .zwakkePunten {
     color: #a24444;
     padding-bottom: 10px;
-    border-right: 0px solid #bbb;
+    border-right: 0 solid #bbb;
 }
 
 i,
